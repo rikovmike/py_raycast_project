@@ -1,6 +1,6 @@
 # 🎮 Рейкаст Рендерер на Pygame
 
-[![Language: English](https://shields.io)](README.md)
+[![Language: English]](README.md)
 
 Простой, быстрый и оптимизированный псевдотрехмерный движок рейкастинга на Python, Pygame и NumPy с продвинутыми эффектами пост-обработки.
 
@@ -21,7 +21,7 @@
 #### Установка и запуск
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/rikovmike/py_raycast_project.git
    cd py_raycast_project
    ```
 2. Установите зависимости:
