@@ -16,10 +16,3 @@
 - [Pygame](https://www.pygame.org/)
 - [NumPy](https://numpy.org/)
 
-### Установка
-```bash
-git clone https://github.com/yourusername/raycast-pygame.git
-cd raycast-pygame
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-pip install -r requirements.txt
